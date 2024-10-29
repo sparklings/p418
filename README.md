@@ -7,4 +7,4 @@ Task Management
 
 ## 오픈소스
 
-Axios, Bulma, Font Awesome 프로젝트에 감사드립니다.
+Bower, Axios, Bulma, Font Awesome 프로젝트에 감사드립니다.
