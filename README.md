@@ -5,6 +5,10 @@ The HTTP 418 I'm a teapot status response code indicates that the server refuses
 
 Task Management
 
+## 설치방법
+
+bower install
+
 ## 오픈소스
 
 Bower, Axios, Bulma, Font Awesome 프로젝트에 감사드립니다.

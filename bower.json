@@ -1,0 +1,22 @@
+{
+  "name": "p418",
+  "homepage": "https://github.com/sparklings/p418",
+  "authors": [
+    "SUNGWON <sungwon.park@gmail.com>"
+  ],
+  "description": "IT Solution",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bulma": "^1.0.2",
+    "fontawesome": "^6.6.0",
+    "axios": "^1.7.7"
+  }
+}
